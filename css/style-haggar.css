@@ -207,6 +207,9 @@
   margin: 0;
 }
 
+.section-six .img {
+  width: 255px;
+}
 .section-six .img img {
   width: 100%;
   height: 100%;
